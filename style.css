@@ -1,0 +1,13 @@
+body{
+    background-color: lightgray;
+}
+h1{
+
+    color: rgb(40, 182, 182);
+    font-size: 45px;
+}
+p{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(59, 54, 5);
+}
